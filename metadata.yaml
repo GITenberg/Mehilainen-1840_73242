@@ -1,0 +1,33 @@
+_repo: Mehilainen-1840_73242
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Lönnrot, Elias
+    alias: Lonnrot, Elias
+    birthdate: 1802
+    deathdate: 1884
+    gutenberg_agent_id: '4153'
+    url: http://www.gutenberg.org/2009/agents/4153
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Elias_L%C3%B6nnrot
+    - https://en.wikipedia.org/wiki/Elias_L%C3%B6nnrot
+description: ''
+gutenberg_issued: '2024-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73242'
+language: fi
+pgterms:marc905: 20240317111530lnnrot
+pgterms:marc906: '1840'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aHelsinki :$bG. O. Wasenius, $c1840.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish periodicals'
+- !lcc 'PH'
+- GITenberg
+title: Mehiläinen 1840
+url: http://www.gutenberg.org/ebooks/73242
